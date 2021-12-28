@@ -13,5 +13,3 @@ Ventana de resultado:
 
 ![image](https://user-images.githubusercontent.com/96338110/146640139-9384632a-7a90-4e99-b503-5ba25a836b5a.png)
 
-
-[Main video missing due to Github size restrictions]
